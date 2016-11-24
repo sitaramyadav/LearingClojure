@@ -1,1 +1,1 @@
-# LearingClojure
+# LearningClojure
